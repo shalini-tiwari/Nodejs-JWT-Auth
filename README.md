@@ -8,7 +8,7 @@
 4. **jwt** to check for **_private routes_**.
 
 
-### 🔗 APIs Endpoints
+  ### 🔗 APIs Endpoints
 
 - #### Register
 
