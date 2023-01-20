@@ -20,7 +20,7 @@
 - #### Login
 
 ```.
-- /login -- Login [POST]
+    - /login -- Login [POST]
   - {"email":YOUR EMAL, "password": YOUR PASSWORD}
 ```.
 
