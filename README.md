@@ -21,7 +21,7 @@
 
 ```.
     - /login -- Login [POST]
-  - {"email":YOUR EMAL, "password": YOUR PASSWORD}
+    - {"email":YOUR EMAL, "password": YOUR PASSWORD}
 ```.
 
 
